@@ -2,7 +2,7 @@
 
 ## Triggering the update
 
-The site is updated through the use of a GitHub action that triggers on a push to the `main` brach with a tag starting with `v1.` This is a way of versioning the site and should follow the [Semantic Versioning](https://semver.org/) standard. This will trigger the action to run and update the site.
+The site is updated through the use of a GitHub action that triggers on a push to the `main` brach with a tag that looks like `v1.0.0` This is a way of versioning the site and should follow the [Semantic Versioning](https://semver.org/) standard. This will trigger the action to run and update the site.
 
 ## Updating the SOP folder
 
