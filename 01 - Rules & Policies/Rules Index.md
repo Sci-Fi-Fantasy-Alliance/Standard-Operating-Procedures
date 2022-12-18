@@ -3,6 +3,7 @@ title: Rules & Policies
 layout: default
 nav_order: 1
 has_children: true
+permalink: /Rules_Policies
 ---
 # Rules Index
 

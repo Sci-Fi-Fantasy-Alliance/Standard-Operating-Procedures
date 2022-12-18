@@ -1,3 +1,10 @@
+---
+title: Politics Policy
+layout: default
+parent: Rules & Policies
+nav_order: 7
+---
+
 # Politics Policy
 
 Relevant discourse, done in good faith is welcome. Popping into this server to go on a random political or religious rant that derails the conversation and creates any kind of heated argument, or develops into vitriol, is not.

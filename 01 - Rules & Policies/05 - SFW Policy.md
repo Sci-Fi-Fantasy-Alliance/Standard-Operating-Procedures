@@ -1,3 +1,10 @@
+---
+title: SFW Policy
+layout: default
+parent: Rules & Policies
+nav_order: 5
+---
+
 # SFW Policy
 
 First and foremost there is one main rule: be mindful of each other. This community was created in the spirit of collaboration and love for our respective fandoms, and we generally want to keep the atmosphere here positive and wholesome.

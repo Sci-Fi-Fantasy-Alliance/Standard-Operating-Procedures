@@ -1,4 +1,11 @@
-# Serious To
+---
+title: Serious Topics Policy
+layout: default
+parent: Rules & Policies
+nav_order: 6
+---
+
+# Serious Topics Policy
 
 The ❕ rated channels can have discussion of some more serious or difficult themes.
 

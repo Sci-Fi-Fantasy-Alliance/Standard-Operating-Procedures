@@ -1,3 +1,10 @@
+---
+title: Mod Responsibilities
+layout: default
+parent: Rules & Policies
+nav_order: 2
+---
+
 # Mod Responsibilities
 
 1. Moderators need to ensure that their channels remain active weekly. This can be done through planned events, impromptu discussion topics being posted, or even just responding to other members.

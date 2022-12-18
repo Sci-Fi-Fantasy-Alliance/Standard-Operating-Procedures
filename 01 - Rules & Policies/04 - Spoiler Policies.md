@@ -1,3 +1,10 @@
+---
+title: Spoiler Policies
+layout: default
+parent: Rules & Policies
+nav_order: 4
+---
+
 # Spoiler Policies
 
 1. If in doubt, use spoiler tags! You add those by putting || on both sides of the spoiler or highlighting it and clicking on the eye.

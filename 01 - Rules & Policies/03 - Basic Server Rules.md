@@ -1,3 +1,10 @@
+---
+title: Basic Server Rules
+layout: default
+parent: Rules & Policies
+nav_order: 3
+---
+
 # Basic Server Rules
 
 1. Bigotry, hate speech, and general antagonistic behavior will not be tolerated
