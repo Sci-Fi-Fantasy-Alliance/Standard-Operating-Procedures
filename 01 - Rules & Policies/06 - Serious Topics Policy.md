@@ -7,7 +7,7 @@ nav_order: 6
 
 # Serious Topics Policy
 
-The ❕ rated channels can have discussion of some more serious or difficult themes.
+The `❕`{: .bg-grey-lt-300} rated channels can have discussion of some more serious or difficult themes.
 
 This type of content is judged by mods on a case-by-case basis, you can contact us if you feel like a context-appropriate message got targeted unjustly. In general, when posting about sensitive topics, please follow the guidelines below:
 

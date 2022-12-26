@@ -63,10 +63,10 @@ Book Bot is a bot that can be used to get information about books.
 
 ## Khriss (A.K.A. WoBinator 4000)
 
-Khriss is a bot that can be used to get Cosmere related information from the [Coppermind](https://coppermind.net/). As well as get Words of Brandon. 
+Khriss is a bot that can be used to get Cosmere related information from the [Coppermind](https://coppermind.net/). As well as get Words of Brandon.
 
-{: .note }
-This bot may _ONLY_ be used in the full spoiler Cosmere channel.
+{: .warning }
+This bot _ONLY_ functions in the full spoiler Cosmere channel.
 
 ### Commands
 

@@ -4,7 +4,7 @@ From Earliest to Latest, the Timezones of the Mods in UTC are:
 
 | Mod | Country | Timezone |
 |:---:|:---:|:---:|
-|Sa'yless| Serbia| UTC +1
+|Sa'yless| Serbia| UTC +1|
 |Granny Sand| Germany| UTC +1|
 |Chris| UK| UTC +0|
 |Dizzy| UK| UTC +0|
