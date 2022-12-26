@@ -14,5 +14,3 @@ nav_order: 3
 5. Don't spam. Promotion should generally be restricted to personal recommendations of your favorite books/games/etc in the relevant channels. If you want to draw attention to a new release, a crowdfunding campaign, or your self-published book, it needs to be A) relevant to this community and B) submitted to a mod through tickets. We'll review it and post it in the notice-board channel.
 6. This is not a place for judging people on what they do or don't enjoy (authors, books, shows, or adaptations). Be respectful to everyone and leave prejudices at the door.
 7. All discussion about real-world politics/religion must follow the political posts guideline (see below)
-
-[Rules Index](./Rules%20Index.md)

@@ -21,5 +21,3 @@ Each channel on the server also has the relevant spoiler policy listed in the ch
 The  emoji in a channel name means that it's a spoiler channel.  in the channel name means that you need to hide any spoilers behind tags.
 
 Newly released material can be discussed only under spoiler tags for one month after its first airing/publishing. This applies even in the fandom channels that are usually full spoiler! Special threads or channels will be made for the discussion of the new material instead.
-
-[Rules Index](./Rules%20Index.md)

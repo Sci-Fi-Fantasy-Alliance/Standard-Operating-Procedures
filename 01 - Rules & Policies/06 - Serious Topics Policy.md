@@ -21,5 +21,3 @@ In general just make sure to be tasteful and respectful while discussing sensiti
 
 Also, we understand that when chatting with people you know well, boundaries diffuse a lot. In that case just make a thread with content warning and continue there (consider that mods still have to read it, so have pity on our eyes and keep really disturbing stuff out of here).
 When in doubt - err on the side of caution. If someone asks you to tag your message - please do, it costs you nothing, but will make the life of your fellow reader better.
-
-[Rules Index](./Rules%20Index.md)

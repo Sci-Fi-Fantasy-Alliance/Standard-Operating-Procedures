@@ -44,5 +44,3 @@ Serious topic: injury
 Non-explicit: I broke my arm.
 Explicit: I broke my arm and the bone stuck out
 Graphic: I broke my arm and blood gushed out and you could see the bone and tendons.
-
-[Rules Index](./Rules%20Index.md)

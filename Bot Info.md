@@ -70,12 +70,13 @@ This bot may _ONLY_ be used in the full spoiler Cosmere channel.
 
 ### Commands
 
-| Command | Options | Description | Example |
-|:--------|:--------|:------------|:--------|
-|`!wob`|Search |Searches the Words of Brandon| `!wob "Shallan pattern"`|
-|^^ |^^ |^^ |  ^^ `!wob https://wob.coppermind.net/events/472/#e14865` |
+| Command | Options | Description | Example | Notes |
+|:--------|:--------|:------------|:--------|:------|
+|`!wob`|Search |Searches the Words of Brandon | `!wob "Shallan pattern"` | Searches `Shallan` and `pattern` separately |
+|^^ |^^ |^^  | `!wob "Shallan and pattern` | Searches for WoB's containing both `Shallan` and `pattern` |
+|^^ |^^ |^^  | `!wob https://wob.coppermind.net/events/430/#e13981` | request specific URL |
 |`!coppermind`|Search |Searches the Coppermind| `!coppermind "Shallan"`|
-|`!wobhelp`|None |Shows help text for `!wob`| `!wobhelp`|
-|`!wobabout`|None |Shows the help menu| `!wobabout`|
-|`!wobranom`|None |Shows a random WoB| `!wobranom`|
-|`!wobversion`|None |Shows the current version of the bot| `!wobversion`|
+|`!wobhelp`|None |Shows help text for `!wob`|||
+|`!wobabout`|None |Shows the help menu |||
+|`!wobranom`|None |Shows a random WoB |||
+|`!wobversion`|None |Shows the current version of the bot|||
