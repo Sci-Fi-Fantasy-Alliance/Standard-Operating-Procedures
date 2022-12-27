@@ -73,8 +73,8 @@ This bot _ONLY_ functions in the full spoiler Cosmere channel.
 | Command | Options | Description | Example | Notes |
 |:--------|:--------|:------------|:--------|:------|
 |`!wob`|Search |Searches the Words of Brandon | `!wob "Shallan pattern"` | Searches `Shallan` and `pattern` separately |
-|^^ |^^ |^^  | `!wob "Shallan and pattern` | Searches for WoB's containing both `Shallan` and `pattern` |
-|^^ |^^ |^^  | `!wob https://wob.coppermind.net/events/430/#e13981` | request specific URL |
+|^^ |^^ |^^  | `!wob "Shallan and pattern` {: .row-span} | Searches for WoB's containing both `Shallan` and `pattern` |
+|^^ |^^ |^^  | `!wob https://wob.coppermind.net/events/430/#e13981` {: .row-span} | request specific URL |
 |`!coppermind`|Search |Searches the Coppermind| `!coppermind "Shallan"`|
 |`!wobhelp`|None |Shows help text for `!wob`|||
 |`!wobabout`|None |Shows the help menu |||
