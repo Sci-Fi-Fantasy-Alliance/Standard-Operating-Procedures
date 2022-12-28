@@ -261,7 +261,7 @@
 - 16 DEC, Book Club, Sixth Iteration through Epilogue
 - 17 DEC, Book Club, Sixth Iteration through Epilogue
 
-## Movie Night
+### Movie Night
 - 02 DEC, put up Movie Night suggestion thread
 - 09 DEC, put up Movie Night voting
 - 16 DEC, Events, TBD
