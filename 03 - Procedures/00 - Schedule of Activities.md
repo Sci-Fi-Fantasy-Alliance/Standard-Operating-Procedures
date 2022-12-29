@@ -14,7 +14,7 @@
 
 ### Movie Night
 - 07 JAN, put up Movie Night suggestion thread
-- 14 JAN, pur up Movie Night voting
+- 14 JAN, put up Movie Night voting
 - 21 JAN, Events, TBD
 
 ### Secret Projects
