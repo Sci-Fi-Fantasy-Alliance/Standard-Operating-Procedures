@@ -278,7 +278,7 @@ permalink: /Schedule
 - 18, Book Club, Ch 30 through Ch 43
 - 19, Book Club, Ch 30 through Ch 43
 - 25, Book Club, Ch 44 through Epilogue
-- 16, Book Club, Ch 44 through Epilogue
+- 26, Book Club, Ch 44 through Epilogue
 
 ### Movie Night
 
