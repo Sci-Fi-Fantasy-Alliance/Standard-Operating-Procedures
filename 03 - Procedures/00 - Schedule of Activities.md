@@ -193,7 +193,7 @@ permalink: /Schedule
 
 ## August 2023 Events
 
-### Book Club: The Singularity Trap by Dennis E. Taylor & Assasin's Apprentice (Farseer Book 1) by Robin Hobb
+### Book Club: The Singularity Trap by Dennis E. Taylor & Assassin's Apprentice (Farseer Book 1) by Robin Hobb
 
 - 05 AUG, Book Club, (Trap) Emissary through In the Common Room
 - 06 AUG, Book Club, Emissary through In the Common Room
@@ -212,7 +212,7 @@ permalink: /Schedule
 
 ## September 2023 Events
 
-### Book Club: Assasin's Apprentice (Farseer Book 1) by Robin Hobb & Project Hail Mary by Andy Weir
+### Book Club: Assassin's Apprentice (Farseer Book 1) by Robin Hobb & Project Hail Mary by Andy Weir
 
 - 02 SEP, Book Club, (Apprentice) Ch 9 through Ch 16
 - 03 SEP, Book Club, Ch 9 through Ch 16
