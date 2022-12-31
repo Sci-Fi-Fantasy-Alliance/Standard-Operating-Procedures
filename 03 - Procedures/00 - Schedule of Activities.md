@@ -139,7 +139,7 @@ permalink: /Schedule
 
 ## June 2023 Events
 
-### Book Club: Light from Uncommon Stars by Ryka Aoki & A Wizard of Earthsea (Earthsea Cycles Book1) by Ursula K. Le Guin
+### Book Club: Light from Uncommon Stars by Ryka Aoki & A Wizard of Earthsea (Earthsea Cycles Book 1) by Ursula K. Le Guin
 
 - 03 JUN, Book Club, (Stars) Feb Ch 1 through June Ch 21
 - 04 JUN, Book Club, Feb Ch 1 through June Ch 21
