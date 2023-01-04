@@ -107,7 +107,7 @@ permalink: /Schedule
 
 ### Secret Projects
 
-- 01 APR, put up SP2 halfway spoilers thread
+- 01 APR, put up SP2 no spoilers thread
   - NO Cosmere spoilers
 - 01 APR, put up SP2 full spoilers thread
   - NO Cosmere spoilers
@@ -187,7 +187,7 @@ permalink: /Schedule
 
 ### Secret Projects
 
-- 01 JUL, put up halfway spoiler thread for SP3
+- 01 JUL, put up no spoiler thread for SP3
 - 01 JUL, put up full spoiler thread for SP3
 - 28 JUL, close SP2 threads (spoilers now allowed in #cosmere)
 
@@ -259,7 +259,7 @@ permalink: /Schedule
 
 ### Secret Projects
 
-- 01 OCT, put up SP4 halfway spoilers thread
+- 01 OCT, put up SP4 no spoilers thread
 - 01 OCT, put up SP4 full spoiler thread
 - 03 OCT, put up SP3 General-Release spoiler thread
 
